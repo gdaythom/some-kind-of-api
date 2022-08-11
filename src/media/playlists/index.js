@@ -11,6 +11,7 @@ const Playlists = [
   require(`./multiparters/theBorg.json`),
   require(`./multiparters/theFinalChapter.json`),
   require(`./multiparters/worstEpisodes.json`),
+  require(`./multiparters/scariestEpisodes.json`),
 ];
 
 const TwoParters = [
