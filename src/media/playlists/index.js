@@ -13,6 +13,7 @@ const Playlists = [
   require(`./multiparters/worstEpisodes.json`),
   require(`./multiparters/scariestEpisodes.json`),
   require(`./multiparters/weirdEpisodes.json`),
+  require(`./multiparters/crossovers.json`),
 ];
 
 const TwoParters = [
